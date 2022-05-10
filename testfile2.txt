@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Testfile #2
-=======
 neues testfile zur verwirrung
->>>>>>> 7d9f4fa744ad80b8192fa2744ebd2316b9a52e16
